@@ -43,3 +43,8 @@ If you’re interested in:
 
 Feel free to reach out or explore my projects.
 
+- **GitHub:** [invisispider](https://github.com/invisispider)  
+- **Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/~01527a09cdcfd75500)  
+- **Website:** [steinunlimited.com](https://steinunlimited.com/)  
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/adam-loewen-3218ab48/)  
+ 

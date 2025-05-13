@@ -10,8 +10,8 @@ I’m a software developer focused on:
 - 🛡 Integrations with APIs (Google, Metrc, etc.)
 - ⚙ Automation and scripting (Python)
 
-🔗 **Portfolio website:** [invisispider.github.io](https://invisispider.github.io)
-🐎 **Personal/Project website:** [SteinunLimited.com](https://www.steinunlimited.com)
+### 🔗 **Portfolio website:** [invisispider.github.io](https://invisispider.github.io)  
+### 🐎 **Personal/Project website:** [SteinunLimited.com](https://www.steinunlimited.com)
 
 ---
 
